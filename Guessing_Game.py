@@ -46,5 +46,5 @@ print("Computer took " , computerGuess(0,100,randnum) , " steps!")
 if(count > computerGuess(0, 100, randnum)):
    print("You lose!")
 elif(count <= computerGuess(0, 100, randnum)):
-   print("Yoy won!")
+   print("You won!")
    
